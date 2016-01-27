@@ -2,3 +2,9 @@
 .settings
 salesforce.schema
 
+salesforce_marketing_calendar.sublime-project
+config/.debug
+config/.describe
+config/.lightning
+config/.local_store
+config/.session
